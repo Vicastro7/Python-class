@@ -25,3 +25,5 @@ print(user1.title())
 print(user1.casefold())
 print(user1.capitalize())
 
+
+print (2*2)
